@@ -1,5 +1,1 @@
-const squareOfNumber = num => {
-	return num * num;
-}
-
-console.log(squareOfNumber(2));
+console.log(_.last(['one', 'two']));
